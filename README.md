@@ -1,5 +1,4 @@
-# Computer-Vision-Object-Detection-Python-PyTorch-
-# Computer Vision Object Detection
+# Computer-Vision-Object-Detection-Python-PyTorch
 
 ## Overview
 Developed a computer vision application to detect and classify objects with high accuracy, enhancing automation capabilities.  
